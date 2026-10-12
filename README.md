@@ -18,6 +18,14 @@ I build small, reliable tools that keep IT running: monitoring, helpdesk, dashbo
 - **Web apps**: internal portals and tools, from database to UI
 - **Linux & DevOps**: VPS setup, Docker, Nginx, SSL, backups and hardening
 
+### ⭐ Open-source tools
+
+| Repo | What it does |
+|---|---|
+| [**vps-hardening**](https://github.com/andriarezki/vps-hardening) | Secure a fresh Ubuntu/Debian VPS in one run: SSH keys only, UFW, fail2ban, auto updates |
+| [**backup-monitor-telegram**](https://github.com/andriarezki/backup-monitor-telegram) | Nightly check that backups are fresh and not empty, with one Telegram summary |
+| [**selfhosted-monitoring-stack**](https://github.com/andriarezki/selfhosted-monitoring-stack) | Uptime Kuma + Caddy (auto HTTPS) + daily backups in one `docker compose up` |
+
 ### 📦 Selected work
 
 | Project | What it does | Stack |

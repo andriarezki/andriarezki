@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Andria Rezki 👋</h1>
-<p align="center"><b>IT Operations · Automation · DevOps</b><br>
-I build small, reliable tools that keep IT running: monitoring, helpdesk, dashboards and automation.</p>
+<p align="center"><b>IT Operations · Full-stack · Automation &amp; AI</b><br>
+I build small, reliable tools that keep IT running: web apps, monitoring, dashboards, automation and AI agents.</p>
 
 <p align="center">
   <a href="https://andriarezki.tech"><img src="https://img.shields.io/badge/Portfolio-andriarezki.tech-3E8E7E?style=flat-square" alt="Portfolio"></a>
@@ -15,13 +15,15 @@ I build small, reliable tools that keep IT running: monitoring, helpdesk, dashbo
 - **Monitoring & uptime**: self-hosted status pages, network/LAN monitors and Telegram alerts
 - **Helpdesk & IT asset management**: ticketing, QR asset tracking and dashboards
 - **Automation**: Python/Node scripts, n8n workflows, scheduled reports, content pipelines
-- **Web apps**: internal portals and tools, from database to UI
+- **Web apps**: React + TypeScript front ends with Node.js/Express APIs, from database to UI
+- **AI & agents**: Claude Code with MCP connectors, LLM features in production (document/receipt extraction)
 - **Linux & DevOps**: VPS setup, Docker, Nginx, SSL, backups and hardening
 
-### ⭐ Open-source tools
+### ⭐ Open-source projects
 
 | Repo | What it does |
 |---|---|
+| [**book-lending-app**](https://github.com/andriarezki/book-lending-app) | Full-stack library app: React + TypeScript, Express REST API, SQLite, tests, CI and Docker |
 | [**vps-hardening**](https://github.com/andriarezki/vps-hardening) | Secure a fresh Ubuntu/Debian VPS in one run: SSH keys only, UFW, fail2ban, auto updates |
 | [**backup-monitor-telegram**](https://github.com/andriarezki/backup-monitor-telegram) | Nightly check that backups are fresh and not empty, with one Telegram summary |
 | [**selfhosted-monitoring-stack**](https://github.com/andriarezki/selfhosted-monitoring-stack) | Uptime Kuma + Caddy (auto HTTPS) + daily backups in one `docker compose up` |
@@ -47,15 +49,19 @@ I build small, reliable tools that keep IT running: monitoring, helpdesk, dashbo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ### 🌱 Currently
 
 - Learning in public: a 12-week DevOps roadmap (CI/CD, containers, observability)
+- Building with AI agents and the Claude API
 - Writing practical IT tips on LinkedIn and [@terjebakit](https://www.instagram.com/terjebakit)
 
 <p align="center"><sub>📍 Pekanbaru, Indonesia · 🇮🇩 / 🇬🇧</sub></p>

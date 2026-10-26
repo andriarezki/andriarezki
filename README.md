@@ -17,6 +17,7 @@ I build small, reliable tools that keep IT running: web apps, monitoring, dashbo
 - **Automation**: Python/Node scripts, n8n workflows, scheduled reports, content pipelines
 - **Web apps**: React + TypeScript front ends with Node.js/Express APIs, from database to UI
 - **AI & agents**: Claude Code with MCP connectors, LLM features in production (document/receipt extraction)
+- **Search & RAG**: hybrid BM25 + embedding search, cited answers, offline local models (see rag-demo below)
 - **Linux & DevOps**: VPS setup, Docker, Nginx, SSL, backups and hardening
 
 ### ⭐ Open-source projects
@@ -26,6 +27,7 @@ I build small, reliable tools that keep IT running: web apps, monitoring, dashbo
 | [**book-lending-app**](https://github.com/andriarezki/book-lending-app) | Full-stack library app: React + TypeScript, Express REST API, SQLite, tests, CI and Docker |
 | [**vps-hardening**](https://github.com/andriarezki/vps-hardening) | Secure a fresh Ubuntu/Debian VPS in one run: SSH keys only, UFW, fail2ban, auto updates |
 | [**backup-monitor-telegram**](https://github.com/andriarezki/backup-monitor-telegram) | Nightly check that backups are fresh and not empty, with one Telegram summary |
+| [**rag-demo**](https://github.com/andriarezki/rag-demo) | Ask questions about a folder of documents and get answers with sources, or an honest "not in the documents". Hybrid search, works offline |
 | [**selfhosted-monitoring-stack**](https://github.com/andriarezki/selfhosted-monitoring-stack) | Uptime Kuma + Caddy (auto HTTPS) + daily backups in one `docker compose up` |
 
 ### 📦 Selected work

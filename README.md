@@ -5,7 +5,6 @@ I build small, reliable tools that keep IT running: web apps, monitoring, dashbo
 <p align="center">
   <a href="https://andriarezki.tech"><img src="https://img.shields.io/badge/Portfolio-andriarezki.tech-3E8E7E?style=flat-square" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/andriarezki"><img src="https://img.shields.io/badge/LinkedIn-andriarezki-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/terjebakit"><img src="https://img.shields.io/badge/Instagram-@terjebakit-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.instagram.com/andriarezki"><img src="https://img.shields.io/badge/Instagram-@andriarezki-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram personal"></a>
 </p>
 

@@ -12,7 +12,7 @@ I build small, reliable tools that keep IT running: web apps, monitoring, dashbo
 
 ### 🛠️ What I work on
 
-- **Monitoring & uptime**: self-hosted status pages, network/LAN monitors and Telegram alerts
+- **Monitoring & uptime**: self-hosted status pages, network/LAN monitors, automated backup-compliance checks for user PCs and Telegram alerts
 - **Helpdesk & IT asset management**: ticketing, QR asset tracking and dashboards
 - **Automation**: Python/Node scripts, n8n workflows, scheduled reports, content pipelines
 - **Web apps**: React + TypeScript front ends with Node.js/Express APIs, from database to UI
